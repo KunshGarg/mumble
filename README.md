@@ -1,4 +1,4 @@
-# DejaVu - Event Management & Ticketing Platform
+# Mumble - Event Management & Ticketing Platform
 
 A modern event management and ticketing platform built with Next.js 14, featuring secure payments, QR code tickets, and comprehensive admin tools.
 
